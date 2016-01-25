@@ -44,5 +44,5 @@ Licença
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
- [slides-speaker-deck]: https://speakerdeck.com/ppgsalomao/espresso-101
+ [slides-speaker-deck]: https://speakerdeck.com/ppgsalomao/espresso-101-introducao-a-ui-testing
  [slides-slide-share]: http://www.slideshare.net/PedroSalomo2/espresso-101-introduo-a-ui-testing
